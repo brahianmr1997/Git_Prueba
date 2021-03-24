@@ -1,1 +1,1 @@
-print('Probablemente')
+print('o quizas sea permanente')
